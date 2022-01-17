@@ -1,5 +1,5 @@
 Team 3
-<<<<<<< HEAD
+
 Person3:
 Name :- Devang Shakya
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
@@ -8,7 +8,6 @@ Why did you choose this field (at least 100 chars)?
 Answer : I choose this field because i love to make digital application using coding and i can do that and for the most of the part i love designing in it.
 Where do you want to yourself in 5 years?
 Answer: In 5 year i want to be much more better then i am now. And want to be a full satck developer.
-=======
 
 Person - 2
 Name :- Maradiya Aksh
@@ -40,4 +39,9 @@ Answer : I choose this field because my interest in front-end part and I work in
 
 Where do you want to yourself in 5 years?
 Answer:I want to see myself in 5 years as a Team leader , Project Manager and I will have enough knowledge about my technology
->>>>>>> 77024a883511edb4dc41065c74d81f041d0e0950
+
+Person - 4
+Name : Prachi Shah
+Interested field : ML/IT
+I choose ML/IT, because i have interest in image processing, datas, and how machines work when the input is given. So i have searched the information about this field, i have done some courses about machine learning on udemy. In future, there are lots of opportunities in machine learning and artificial intelligence. We can implement so much in this field and can give our contribution.  AI/ML is very interesting and it uses mathamatics. So that is why i choose this field.
+In five years, i want to gain so much knowledge in this field and want to implement my own AI product.
