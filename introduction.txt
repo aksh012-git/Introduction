@@ -1,5 +1,5 @@
 Team 3
-<<<<<<< HEAD
+
 Person3:
 Name :- Devang Shakya
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
@@ -7,8 +7,12 @@ Answer: I'm intrested in Web Designer.
 Why did you choose this field (at least 100 chars)?
 Answer : I choose this field because i love to make digital application using coding and i can do that and for the most of the part i love designing in it.
 Where do you want to yourself in 5 years?
+<<<<<<< HEAD
 Answer: In 5 year i want to be much more better then i am now. And want to be a full stack developer.
 =======
+=======
+Answer: In 5 year i want to be much more better then i am now. And want to be a full satck developer.
+>>>>>>> e8e80a1527e16ae43d7a674bc5f44640c9e79bc0
 
 Person - 2
 Name :- Maradiya Aksh
@@ -40,4 +44,14 @@ Answer : I choose this field because my interest in front-end part and I work in
 
 Where do you want to yourself in 5 years?
 Answer:I want to see myself in 5 years as a Team leader , Project Manager and I will have enough knowledge about my technology
->>>>>>> 77024a883511edb4dc41065c74d81f041d0e0950
+
+Person2:
+Name :- Astha_Makavana
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):- Business Analyst (BA)
+Why did you choose this field (at least 100 chars)?
+Answer : One of the primary reason to choose the Business Analyst profile is the diversity of work. I am fascinated with this particular profile because it has comparatively more human interaction as well as has creation of certain documentations and wireframes, which I find quite interesting. 
+Where do you want to yourself in 5 years?
+Answer: In the upcoming 5 years, I see myself working as a Senior Business Analyst in an IT firm and contributing towards the growth of the organization.
+
+
+
