@@ -1,4 +1,5 @@
 Team 3
+<<<<<<< HEAD
 Person3:
 Name :- Devang Shakya
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
@@ -7,3 +8,36 @@ Why did you choose this field (at least 100 chars)?
 Answer : I choose this field because i love to make digital application using coding and i can do that and for the most of the part i love designing in it.
 Where do you want to yourself in 5 years?
 Answer: In 5 year i want to be much more better then i am now. And want to be a full satck developer.
+=======
+
+Person - 2
+Name :- Maradiya Aksh
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Answer : I interested in AI-ML and web Designer field of IT
+
+Why did you choose this field (at least 100 chars)?
+Answer : This filed is very intrested form my site and my logical skills and designing skills is very better so i choose this field.
+
+Where do you want to yourself in 5 years?
+Answer:become a filed master and become a key person
+
+Person - 5:
+Name :- Richa_Jhaveri
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- AI,wEB Designer
+Why did you choose this field (at least 100 chars)?
+Answer : AI is an emerging field , is drastically important to our future because AI forms the very foundation of computer learning. AI helping to solve problems in the world.With AI adoption on the rise, the technology is addressing a number of global challenges.
+Where do you want to yourself in 5 years?
+Answer:In higher position
+Add, commit and push code from the local machine. Work together.
+
+Person-1
+Name :- Riya Chauhan
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Answer : I interested in front-end field of IT
+
+Why did you choose this field (at least 100 chars)?
+Answer : I choose this field because my interest in front-end part and I work in basic Javscript and Angular,React framework
+
+Where do you want to yourself in 5 years?
+Answer:I want to see myself in 5 years as a Team leader , Project Manager and I will have enough knowledge about my technology
+>>>>>>> 77024a883511edb4dc41065c74d81f041d0e0950
