@@ -7,3 +7,14 @@ Answer : AI is an emerging field , is drastically important to our future becaus
 Where do you want to yourself in 5 years?
 Answer:In higher position
 Add, commit and push code from the local machine. Work together.
+
+Person
+Name :- Riya Chauhan
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Answer : I interested in front-end field of IT
+
+Why did you choose this field (at least 100 chars)?
+Answer : I choose this field because my interest in front-end part and I work in basic Javscript and Angular,React framework
+
+Where do you want to yourself in 5 years?
+Answer:I want to see myself in 5 years as a Team leader , Project Manager and I will have enough knowledge about my technology
