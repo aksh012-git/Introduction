@@ -1,5 +1,17 @@
 Team 3
-Person5:
+
+Person - 2
+Name :- Maradiya Aksh
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Answer : I interested in AI-ML and web Designer field of IT
+
+Why did you choose this field (at least 100 chars)?
+Answer : This filed is very intrested form my site and my logical skills and designing skills is very better so i choose this field.
+
+Where do you want to yourself in 5 years?
+Answer:become a filed master and become a key person
+
+Person - 5:
 Name :- Richa_Jhaveri
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- AI,wEB Designer
 Why did you choose this field (at least 100 chars)?
@@ -8,7 +20,7 @@ Where do you want to yourself in 5 years?
 Answer:In higher position
 Add, commit and push code from the local machine. Work together.
 
-Person
+Person-1
 Name :- Riya Chauhan
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
 Answer : I interested in front-end field of IT
