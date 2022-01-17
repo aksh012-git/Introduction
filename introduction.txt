@@ -1,2 +1,9 @@
 Team 3
-
+Person5:
+Name :- Richa_Jhaveri
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- AI,wEB Designer
+Why did you choose this field (at least 100 chars)?
+Answer : AI is an emerging field , is drastically important to our future because AI forms the very foundation of computer learning. AI helping to solve problems in the world.With AI adoption on the rise, the technology is addressing a number of global challenges.
+Where do you want to yourself in 5 years?
+Answer:In higher position
+Add, commit and push code from the local machine. Work together.
