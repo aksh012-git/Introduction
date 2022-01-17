@@ -40,8 +40,20 @@ Answer : I choose this field because my interest in front-end part and I work in
 Where do you want to yourself in 5 years?
 Answer:I want to see myself in 5 years as a Team leader , Project Manager and I will have enough knowledge about my technology
 
+
 Person - 4
 Name : Prachi Shah
 Interested field : ML/IT
 I choose ML/IT, because i have interest in image processing, datas, and how machines work when the input is given. So i have searched the information about this field, i have done some courses about machine learning on udemy. In future, there are lots of opportunities in machine learning and artificial intelligence. We can implement so much in this field and can give our contribution.  AI/ML is very interesting and it uses mathamatics. So that is why i choose this field.
 In five years, i want to gain so much knowledge in this field and want to implement my own AI product.
+
+Person2:
+Name :- Astha_Makavana
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):- Business Analyst (BA)
+Why did you choose this field (at least 100 chars)?
+Answer : One of the primary reason to choose the Business Analyst profile is the diversity of work. I am fascinated with this particular profile because it has comparatively more human interaction as well as has creation of certain documentations and wireframes, which I find quite interesting. 
+Where do you want to yourself in 5 years?
+Answer: In the upcoming 5 years, I see myself working as a Senior Business Analyst in an IT firm and contributing towards the growth of the organization.
+
+
+
